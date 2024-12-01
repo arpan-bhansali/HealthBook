@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBook.API", "HealthBook.API\HealthBook.API.csproj", "{20055165-E89F-4045-9A67-30B00AC9A3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBook.Utility", "HealthBook.Utility\HealthBook.Utility.csproj", "{8E1E78D9-3DBA-43F0-9CD9-40EE5AA2EE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBook.Repository", "HealthBook.Repository\HealthBook.Repository.csproj", "{C1FDBB5D-560D-4EEC-8949-FF373B855F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBook.Model", "HealthBook.Model\HealthBook.Model.csproj", "{D38D2EAF-4D57-4015-9245-CF376EAEA44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBook.Data", "HealthBook.Data\HealthBook.Data.csproj", "{3D2E8014-E6FC-46E6-B3E7-0A095BBA0263}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BB875B5-DE4B-483E-A6CE-AD3DDFD528F2}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20055165-E89F-4045-9A67-30B00AC9A3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20055165-E89F-4045-9A67-30B00AC9A3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20055165-E89F-4045-9A67-30B00AC9A3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20055165-E89F-4045-9A67-30B00AC9A3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E78D9-3DBA-43F0-9CD9-40EE5AA2EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E78D9-3DBA-43F0-9CD9-40EE5AA2EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E78D9-3DBA-43F0-9CD9-40EE5AA2EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E78D9-3DBA-43F0-9CD9-40EE5AA2EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FDBB5D-560D-4EEC-8949-FF373B855F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FDBB5D-560D-4EEC-8949-FF373B855F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FDBB5D-560D-4EEC-8949-FF373B855F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FDBB5D-560D-4EEC-8949-FF373B855F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38D2EAF-4D57-4015-9245-CF376EAEA44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38D2EAF-4D57-4015-9245-CF376EAEA44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38D2EAF-4D57-4015-9245-CF376EAEA44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38D2EAF-4D57-4015-9245-CF376EAEA44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2E8014-E6FC-46E6-B3E7-0A095BBA0263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2E8014-E6FC-46E6-B3E7-0A095BBA0263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2E8014-E6FC-46E6-B3E7-0A095BBA0263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2E8014-E6FC-46E6-B3E7-0A095BBA0263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C6DC84-0BAA-4C1A-BB77-2887FC93C0A4}
+	EndGlobalSection
+EndGlobal
